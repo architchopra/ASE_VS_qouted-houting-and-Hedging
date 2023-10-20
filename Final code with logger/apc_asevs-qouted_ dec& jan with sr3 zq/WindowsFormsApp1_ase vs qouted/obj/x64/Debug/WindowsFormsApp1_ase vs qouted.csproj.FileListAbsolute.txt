@@ -1,0 +1,318 @@
+C:\tt\WindowsFormsApp1_ase vs qouted\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.AssemblyReference.cache
+C:\tt\WindowsFormsApp1_ase vs qouted\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.SuggestedBindingRedirects.cache
+C:\tt\WindowsFormsApp1_ase vs qouted\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase_vs_qouted.Properties.Resources.resources
+C:\tt\WindowsFormsApp1_ase vs qouted\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.GenerateResource.cache
+C:\tt\WindowsFormsApp1_ase vs qouted\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CoreCompileInputs.cache
+C:\tt\WindowsFormsApp1_ase vs qouted\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe.config
+C:\tt\WindowsFormsApp1_ase vs qouted\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\WindowsFormsApp1_ase vs qouted\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\WindowsFormsApp1_ase vs qouted\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\core-wrapper.dll
+C:\tt\WindowsFormsApp1_ase vs qouted\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.dll
+C:\tt\WindowsFormsApp1_ase vs qouted\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\tt\WindowsFormsApp1_ase vs qouted\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.dll
+C:\tt\WindowsFormsApp1_ase vs qouted\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.dll
+C:\tt\WindowsFormsApp1_ase vs qouted\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\tt-net-api.dll
+C:\tt\WindowsFormsApp1_ase vs qouted\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.xml
+C:\tt\WindowsFormsApp1_ase vs qouted\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\tt\WindowsFormsApp1_ase vs qouted\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.xml
+C:\tt\WindowsFormsApp1_ase vs qouted\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.xml
+C:\tt\WindowsFormsApp1_ase vs qouted\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CopyComplete
+C:\tt\WindowsFormsApp1_ase vs qouted\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\WindowsFormsApp1_ase vs qouted\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\WindowsFormsApp1_ase vs qouted\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\ASE_ASE.Form1.resources
+C:\tt\apc_ase_vs_qouted-master\apc_ase_vs_qouted-master\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe.config
+C:\tt\apc_ase_vs_qouted-master\apc_ase_vs_qouted-master\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\apc_ase_vs_qouted-master\apc_ase_vs_qouted-master\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\apc_ase_vs_qouted-master\apc_ase_vs_qouted-master\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\core-wrapper.dll
+C:\tt\apc_ase_vs_qouted-master\apc_ase_vs_qouted-master\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.dll
+C:\tt\apc_ase_vs_qouted-master\apc_ase_vs_qouted-master\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\tt\apc_ase_vs_qouted-master\apc_ase_vs_qouted-master\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.dll
+C:\tt\apc_ase_vs_qouted-master\apc_ase_vs_qouted-master\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.dll
+C:\tt\apc_ase_vs_qouted-master\apc_ase_vs_qouted-master\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\tt-net-api.dll
+C:\tt\apc_ase_vs_qouted-master\apc_ase_vs_qouted-master\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.xml
+C:\tt\apc_ase_vs_qouted-master\apc_ase_vs_qouted-master\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\tt\apc_ase_vs_qouted-master\apc_ase_vs_qouted-master\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.xml
+C:\tt\apc_ase_vs_qouted-master\apc_ase_vs_qouted-master\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.xml
+C:\tt\apc_ase_vs_qouted-master\apc_ase_vs_qouted-master\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.AssemblyReference.cache
+C:\tt\apc_ase_vs_qouted-master\apc_ase_vs_qouted-master\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.SuggestedBindingRedirects.cache
+C:\tt\apc_ase_vs_qouted-master\apc_ase_vs_qouted-master\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\ASE_ASE.Form1.resources
+C:\tt\apc_ase_vs_qouted-master\apc_ase_vs_qouted-master\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase_vs_qouted.Properties.Resources.resources
+C:\tt\apc_ase_vs_qouted-master\apc_ase_vs_qouted-master\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.GenerateResource.cache
+C:\tt\apc_ase_vs_qouted-master\apc_ase_vs_qouted-master\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CoreCompileInputs.cache
+C:\tt\apc_ase_vs_qouted-master\apc_ase_vs_qouted-master\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CopyComplete
+C:\tt\apc_ase_vs_qouted-master\apc_ase_vs_qouted-master\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\apc_ase_vs_qouted-master\apc_ase_vs_qouted-master\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe.config
+C:\tt\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\core-wrapper.dll
+C:\tt\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.dll
+C:\tt\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\tt\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.dll
+C:\tt\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.dll
+C:\tt\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\tt-net-api.dll
+C:\tt\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.xml
+C:\tt\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\tt\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.xml
+C:\tt\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.xml
+C:\tt\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.AssemblyReference.cache
+C:\tt\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.SuggestedBindingRedirects.cache
+C:\tt\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\ASE_ASE.Form1.resources
+C:\tt\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase_vs_qouted.Properties.Resources.resources
+C:\tt\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.GenerateResource.cache
+C:\tt\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CoreCompileInputs.cache
+C:\tt\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CopyComplete
+C:\tt\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\optimization\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe.config
+C:\tt\optimization\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\optimization\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\optimization\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\core-wrapper.dll
+C:\tt\optimization\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.dll
+C:\tt\optimization\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\tt\optimization\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.dll
+C:\tt\optimization\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.dll
+C:\tt\optimization\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\tt-net-api.dll
+C:\tt\optimization\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.xml
+C:\tt\optimization\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\tt\optimization\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.xml
+C:\tt\optimization\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.xml
+C:\tt\optimization\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.AssemblyReference.cache
+C:\tt\optimization\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.SuggestedBindingRedirects.cache
+C:\tt\optimization\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\ASE_ASE.Form1.resources
+C:\tt\optimization\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase_vs_qouted.Properties.Resources.resources
+C:\tt\optimization\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.GenerateResource.cache
+C:\tt\optimization\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CoreCompileInputs.cache
+C:\tt\optimization\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CopyComplete
+C:\tt\optimization\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\optimization\apc ase vs qoted sep and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe.config
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\core-wrapper.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\tt-net-api.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.xml
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.xml
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.xml
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.AssemblyReference.cache
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.SuggestedBindingRedirects.cache
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\ASE_ASE.Form1.resources
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase_vs_qouted.Properties.Resources.resources
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.GenerateResource.cache
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CoreCompileInputs.cache
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CopyComplete
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\optimization\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe.config
+C:\tt\optimization\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\optimization\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\optimization\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\core-wrapper.dll
+C:\tt\optimization\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.dll
+C:\tt\optimization\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\tt\optimization\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.dll
+C:\tt\optimization\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.dll
+C:\tt\optimization\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\tt-net-api.dll
+C:\tt\optimization\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.xml
+C:\tt\optimization\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\tt\optimization\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.xml
+C:\tt\optimization\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.xml
+C:\tt\optimization\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.AssemblyReference.cache
+C:\tt\optimization\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.SuggestedBindingRedirects.cache
+C:\tt\optimization\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\ASE_ASE.Form1.resources
+C:\tt\optimization\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase_vs_qouted.Properties.Resources.resources
+C:\tt\optimization\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.GenerateResource.cache
+C:\tt\optimization\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CoreCompileInputs.cache
+C:\tt\optimization\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CopyComplete
+C:\tt\optimization\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\optimization\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe.config
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\core-wrapper.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\tt-net-api.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.xml
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.xml
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.xml
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.AssemblyReference.cache
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.SuggestedBindingRedirects.cache
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\ASE_ASE.Form1.resources
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase_vs_qouted.Properties.Resources.resources
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.GenerateResource.cache
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CoreCompileInputs.cache
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CopyComplete
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\apc_asevs-qouted_SEP and dec\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe.config
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\core-wrapper.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\tt-net-api.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.xml
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.xml
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.xml
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.AssemblyReference.cache
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.SuggestedBindingRedirects.cache
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\ASE_ASE.Form1.resources
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase_vs_qouted.Properties.Resources.resources
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.GenerateResource.cache
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CoreCompileInputs.cache
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CopyComplete
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\in process\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\optimized code\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe.config
+C:\tt\optimized code\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\optimized code\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\optimized code\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\core-wrapper.dll
+C:\tt\optimized code\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.dll
+C:\tt\optimized code\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\tt\optimized code\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.dll
+C:\tt\optimized code\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.dll
+C:\tt\optimized code\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\tt-net-api.dll
+C:\tt\optimized code\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.xml
+C:\tt\optimized code\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\tt\optimized code\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.xml
+C:\tt\optimized code\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.xml
+C:\tt\optimized code\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.AssemblyReference.cache
+C:\tt\optimized code\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.SuggestedBindingRedirects.cache
+C:\tt\optimized code\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\ASE_ASE.Form1.resources
+C:\tt\optimized code\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase_vs_qouted.Properties.Resources.resources
+C:\tt\optimized code\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.GenerateResource.cache
+C:\tt\optimized code\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CoreCompileInputs.cache
+C:\tt\optimized code\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CopyComplete
+C:\tt\optimized code\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\optimized code\apc_asevs-qouted_SEP and dec\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\dec jan mar\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe.config
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\dec jan mar\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\dec jan mar\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\dec jan mar\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\core-wrapper.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\dec jan mar\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\dec jan mar\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\dec jan mar\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\dec jan mar\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\dec jan mar\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\tt-net-api.dll
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\dec jan mar\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.xml
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\dec jan mar\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\dec jan mar\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.xml
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\dec jan mar\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.xml
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\dec jan mar\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.AssemblyReference.cache
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\dec jan mar\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.SuggestedBindingRedirects.cache
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\dec jan mar\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\ASE_ASE.Form1.resources
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\dec jan mar\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase_vs_qouted.Properties.Resources.resources
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\dec jan mar\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.GenerateResource.cache
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\dec jan mar\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CoreCompileInputs.cache
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\dec jan mar\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CopyComplete
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\dec jan mar\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\apc ase vs qoted sep and dec wit sr3 zq\dec jan mar\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\optimized code\WITH mar function frmat\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe.config
+C:\tt\optimized code\WITH mar function frmat\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\optimized code\WITH mar function frmat\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\optimized code\WITH mar function frmat\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\core-wrapper.dll
+C:\tt\optimized code\WITH mar function frmat\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.dll
+C:\tt\optimized code\WITH mar function frmat\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\tt\optimized code\WITH mar function frmat\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.dll
+C:\tt\optimized code\WITH mar function frmat\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.dll
+C:\tt\optimized code\WITH mar function frmat\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\tt-net-api.dll
+C:\tt\optimized code\WITH mar function frmat\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.xml
+C:\tt\optimized code\WITH mar function frmat\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\tt\optimized code\WITH mar function frmat\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.xml
+C:\tt\optimized code\WITH mar function frmat\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.xml
+C:\tt\optimized code\WITH mar function frmat\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.AssemblyReference.cache
+C:\tt\optimized code\WITH mar function frmat\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.SuggestedBindingRedirects.cache
+C:\tt\optimized code\WITH mar function frmat\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\ASE_ASE.Form1.resources
+C:\tt\optimized code\WITH mar function frmat\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase_vs_qouted.Properties.Resources.resources
+C:\tt\optimized code\WITH mar function frmat\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.GenerateResource.cache
+C:\tt\optimized code\WITH mar function frmat\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CoreCompileInputs.cache
+C:\tt\optimized code\WITH mar function frmat\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CopyComplete
+C:\tt\optimized code\WITH mar function frmat\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\optimized code\WITH mar function frmat\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\optimized code\with mar function format with updated checks\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe.config
+C:\tt\optimized code\with mar function format with updated checks\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\optimized code\with mar function format with updated checks\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\optimized code\with mar function format with updated checks\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\core-wrapper.dll
+C:\tt\optimized code\with mar function format with updated checks\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.dll
+C:\tt\optimized code\with mar function format with updated checks\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\tt\optimized code\with mar function format with updated checks\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.dll
+C:\tt\optimized code\with mar function format with updated checks\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.dll
+C:\tt\optimized code\with mar function format with updated checks\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\tt-net-api.dll
+C:\tt\optimized code\with mar function format with updated checks\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.xml
+C:\tt\optimized code\with mar function format with updated checks\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\tt\optimized code\with mar function format with updated checks\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.xml
+C:\tt\optimized code\with mar function format with updated checks\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.xml
+C:\tt\optimized code\with mar function format with updated checks\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.AssemblyReference.cache
+C:\tt\optimized code\with mar function format with updated checks\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.SuggestedBindingRedirects.cache
+C:\tt\optimized code\with mar function format with updated checks\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\ASE_ASE.Form1.resources
+C:\tt\optimized code\with mar function format with updated checks\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase_vs_qouted.Properties.Resources.resources
+C:\tt\optimized code\with mar function format with updated checks\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.GenerateResource.cache
+C:\tt\optimized code\with mar function format with updated checks\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CoreCompileInputs.cache
+C:\tt\optimized code\with mar function format with updated checks\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CopyComplete
+C:\tt\optimized code\with mar function format with updated checks\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\optimized code\with mar function format with updated checks\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.AssemblyReference.cache
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.SuggestedBindingRedirects.cache
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\ASE_ASE.Form1.resources
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase_vs_qouted.Properties.Resources.resources
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.GenerateResource.cache
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CoreCompileInputs.cache
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe.config
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\core-wrapper.dll
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.dll
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.dll
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Serilog.dll
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Serilog.Sinks.File.dll
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.dll
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\tt-net-api.dll
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.xml
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.xml
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Serilog.xml
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Serilog.Sinks.File.pdb
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Serilog.Sinks.File.xml
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.xml
+C:\tt\optimized code\Final code with logger\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CopyComplete
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe.config
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\core-wrapper.dll
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.dll
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.dll
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Serilog.dll
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Serilog.Sinks.File.dll
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.dll
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\tt-net-api.dll
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.xml
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Newtonsoft.Json.xml
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Serilog.xml
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Serilog.Sinks.File.pdb
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\Serilog.Sinks.File.xml
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\bin\x64\Debug\TimeZoneConverter.xml
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.AssemblyReference.cache
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.SuggestedBindingRedirects.cache
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\ASE_ASE.Form1.resources
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase_vs_qouted.Properties.Resources.resources
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.GenerateResource.cache
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CoreCompileInputs.cache
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.csproj.CopyComplete
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.exe
+C:\tt\optimized code\Final code with logger - Copy\apc_asevs-qouted_ dec& jan with sr3 zq\WindowsFormsApp1_ase vs qouted\obj\x64\Debug\WindowsFormsApp1_ase vs qouted.pdb
